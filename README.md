@@ -24,3 +24,6 @@ The winnner was Diana DeGette
 
 ·Challenge Summary:
 It was confusing at times when we had to go back and reconfigure the code and understand what has happening but very fun overall.
+
+·Challenge Results:
+Upon further manipulating the code it was found that among the 3 participating counties (Jefferson, Denver, Araphoe) Denver had the highest turnout with 82.2% of the total votes which is 306,055 out of 369,711 votes. 
